@@ -15,7 +15,7 @@
  ## 🚀 Resultado
  > É um vídeo de apresentação que trata das IA generativa e adversária, o conceito por trás das mesmas, a ética no desenvolvimento das IA e mais.
 
-> > Confira o Ebook abaixo 👇
+> > Confira abaixo 👇
 
 ## Desvendando os Mistérios da Inteligência Artificial: Um Guia para Iniciantes
 ![Imagem gerado com IA no Leonard.AI](https://github.com/LGRuggeri/lab-natty-or-not/blob/main/IA.jpg)
