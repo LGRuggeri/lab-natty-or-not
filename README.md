@@ -18,7 +18,7 @@
 > > Confira o Ebook abaixo 👇
 
 ## Desvendando os Mistérios da Inteligência Artificial: Um Guia para Iniciantes
-![Imagem gerado com IA no Leonard.AI]([URL_da_Imagem](https://github.com/LGRuggeri/lab-natty-or-not/blob/main/IA.jpg))
+![Imagem gerado com IA no Leonard.AI](https://github.com/LGRuggeri/lab-natty-or-not/blob/main/IA.jpg)
 
 
 https://studio.d-id.com/share?id=a7a922c517df9c35333b8aa3d1cf22df
