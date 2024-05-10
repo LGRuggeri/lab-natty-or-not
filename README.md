@@ -1,51 +1,30 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# TITULO: Desvendando a IA no cotidiano 🤖
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+- Este projeto foi elaborado pensando em um especialista IA que se propõe a explicar para iniciantes e curiosos na área mais o que são as IA e como utilizadas em nosso cotidiano de forma simples e clara.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **GEMINI:** Utilizou-se este modelo de linguagem artificial para gerar o conteúdo que seria dito pelo apresentador.
+- **ELEVEN LABS:** Foi utilizado para gerar a voz da narrativa do texto criado no GEMINI para o avatar.
+- **D-ID:** Criado o avatar e o vídeo onde foi apresentado o conteúdo criado no GEMINI e a voz no ELEVEN LABS.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+> O processo de criação teve início com a análise do prompt fornecido pelo usuário, que incluía a descrição do que é IA generativa e adversária, gerando de forma simples mirando a um público específico, gerando um contéudo rico, simples, e explicativo sobre o assunto. Em seguida foi gerado a voz do avatar através do texto e por fim criado a apresentação do vídeo com o avatar.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+ ## 🚀 Resultado
+ > É um vídeo de apresentação que trata das IA generativa e adversária, o conceito por trás das mesmas, a ética no desenvolvimento das IA e mais.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+> > Confira o Ebook abaixo 👇
 
-### Exemplos e Insigths
+## Desvendando os Mistérios da Inteligência Artificial: Um Guia para Iniciantes
+![Imagem gerado com IA no Leonard.AI]([URL_da_Imagem](https://github.com/LGRuggeri/lab-natty-or-not/blob/main/IA.jpg))
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
+https://studio.d-id.com/share?id=a7a922c517df9c35333b8aa3d1cf22df
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+## Conclusão 🎉
+Espero que através deste material tenha compreendido melhor o que são IA, sua usabilidade e importância do uso consciente. E gerado ainda mais a curiosidade para aprender sobre o assunto.
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+> Na era das IAs Generativas, a criação de conteúdo diverso se assemelha a uma missão árdua, digna dos mais bravos cavaleiros. O desafio? Dominar a arte de tecer narrativas que prendam a atenção do usuário, como se fossem poções mágicas de conhecimento. Embora as ferramentas de IA avancem a passos largos, como dragões cuspindo fogo tecnológico, ainda é crucial manter a mente afiada e o senso crítico aguçado. Afinal, só assim poderemos discernir o conteúdo de qualidade do mero charlatanismo digital.
